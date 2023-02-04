@@ -1,4 +1,4 @@
-# Pdf to audiobook converter
+# Pdf to Audiobook Converter
 
 Using AI text-to-speech, a Python script can convert PDF text to speech, creating a free audiobook. The latest text-to-speech technology is so advanced, it can produce a more lifelike performance than a traditional audiobook.
 
